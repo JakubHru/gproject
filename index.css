@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.profile {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile h1 {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.profile .job-title {
+    font-size: 1.5rem;
+    color: #555;
+    margin-top: 5px;
+}
+
+.profile .contact {
+    font-size: 1rem;
+    color: #777;
+    margin-top: 10px;
+}
+
+.profile .contact a {
+    color: #333;
+    text-decoration: none;
+}
+
+.profile .contact a:hover {
+    text-decoration: underline;
+}
+
+
+.about {
+    margin-bottom: 20px;
+}
+
+.about h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.about p {
+    font-size: 1rem;
+    color: #555;
+}
+
+
+.experience {
+    margin-bottom: 20px;
+}
+
+.experience h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.job h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.job p {
+    font-size: 1rem;
+    color: #777;
+}
+
+.job ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.job li {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+
+.education {
+    margin-bottom: 20px;
+}
+
+.education h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.degree h3 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.degree p {
+    font-size: 1rem;
+    color: #777;
+}
+
+
+.skills {
+    margin-bottom: 20px;
+}
+
+.skills h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.skills ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.skills li {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+
+.certifications {
+    margin-bottom: 20px;
+}
+
+.certifications h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.certifications ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.certifications li {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 5px;
+}
